@@ -1,0 +1,18 @@
+# 💫 About Me:
+## 👋 About Me<br><br>**Full-Stack MERN Developer** with **2+ years of professional experience**, building scalable and user-friendly web applications.<br><br> **I’m currently working on**<br>- Production-level MERN applications<br>- REST APIs & backend optimizations<br>- Improving system design and clean architecture<br><br>**I’m looking to collaborate on**<br>- MERN stack projects<br>- Open-source JavaScript / React projects<br>- Developer tools & learning-focused products<br><br> **I’m looking for help with**<br>- Advanced Docker & container orchestration<br>- Performance optimization at scale<br><br> **I’m currently learning**<br>- Advanced React patterns<br>- Backend scalability & caching<br>- Docker & deployment best practices<br><br> **Ask me about**<br>- React.js & frontend architecture  <br>- Node.js, Express & REST APIs  <br>- MongoDB & database design  <br>- Full-stack project structure<br><br>**Fun fact**<br>- I enjoy turning complex problems into clean, simple code 🚀<br><br>---<br><br>##  Tech Stack<br><br>**Frontend**<br>- React.js, JavaScript (ES6+), HTML, CSS<br><br>**Backend**<br>- Node.js, Express.js<br><br>**Database**<br>- MongoDB<br><br>**DevOps & Tools**<br>- Docker (Basics)<br>- Git & GitHub<br>- Linux & Windows<br><br>---<br><br>#Experience<br><br>- **2+ years of professional experience** as a Full-Stack Developer  <br>- Worked on real-world production applications  <br>- Strong focus on clean code, performance, and maintainability<br><br>---<br><br>#Let’s Connect<br><br>-  Open to collaboration & exciting projects<br>-  Love building things that actually ship<br><br>
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishbedi02@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashishbedi1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashishbedi1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishbedi1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ashishbedi1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
